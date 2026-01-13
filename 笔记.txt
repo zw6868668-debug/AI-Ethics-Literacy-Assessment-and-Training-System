@@ -1,0 +1,5 @@
+Github提交步骤：
+git status
+git add .
+git commit -m "一句话说明你改了什么"
+git push
