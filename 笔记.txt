@@ -1,5 +1,8 @@
-Github提交步骤：
+//这是本人第一个上传至GitHub上的项目，学习到的一切内容将在该文件内说明。
+//推荐阅读：电子书《Git学习指南》
+
+GitHub提交步骤：
 git status
-git add .
+git add . //"."的含义是全部提交，也可以写 git add 笔记.txt 来只提交一个文件
 git commit -m "一句话说明你改了什么"
 git push
